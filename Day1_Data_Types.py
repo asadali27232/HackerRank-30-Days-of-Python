@@ -5,7 +5,7 @@ s = "HackerRank "
 # Declare second integer, double, and String variables.
 number = 0
 double_value = 0.0
-string_value = "of Asad Ali"
+string_value = ""
 
 # Read and save an integer, double, and String to your variables.
 number = int(input())
