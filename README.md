@@ -17,6 +17,18 @@ I encourage you to join me in this coding adventure and take advantage of the in
 [![Python](https://img.shields.io/badge/Python-used-blue)](https://www.python.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-used-brightgreen)](https://www.hackerrank.com/)
 
+## Getting Started
+
+To get started with the Python solutions in this repository, follow these steps:
+
+1. Install Python on your machine. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+
+2. Clone or download the repository to your local machine.
+
+3. Navigate to the directory of the specific day's solution that you want to run.
+
+4. Execute the desired file and also install any required dependencies (if applicable).
+
 ## About Me
 My name is Asad Ali, and I'm a Computer Science student at [COMSATS University Lahore](https://lahore.comsats.edu.pk/default.aspx). I'm passionate about Data Science and am always looking for ways to improve my skills. You can connect with me on [WhatsApp](https://wa.me/923074315952) or [Email](mailto:asadali27232@gmail.com).
 
